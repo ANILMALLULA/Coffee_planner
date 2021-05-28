@@ -7,7 +7,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('https://assets.ccbp.in/frontend/react-js/coffee-planner-bg.png');
+  background-image: url("https://assets.ccbp.in/frontend/react-js/coffee-planner-bg.png");
   background-size: cover;
   height: 300px;
   padding-right: 18px;
@@ -29,8 +29,8 @@
 }
 
 .heading {
-  color: #f8fafc;
-  font-family: 'Roboto';
+  color: #f8fbff;
+  font-family: "Roboto";
   font-size: 24px;
   font-weight: 500;
 }
@@ -42,8 +42,8 @@
 }
 
 .description {
-  color: #f1f5f9;
-  font-family: 'Roboto';
+  color: #ffffff;
+  font-family: "Roboto";
   font-size: 14px;
 }
 
@@ -92,7 +92,7 @@
   align-self: center;
   color: #ffffff;
   background-color: #0e8684;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 14px;
   font-weight: 500;
   border: none;
@@ -128,7 +128,7 @@
 
 .summary {
   color: #ffffff;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 18px;
 }
 
